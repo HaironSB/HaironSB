@@ -40,7 +40,7 @@
 
 ###
 
-![snake gif](https://github.com/HaironSB/HaironSB/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/HaironSB/HaironSB/blob/output/github-snake-dark.gif)
 
 ###
 
