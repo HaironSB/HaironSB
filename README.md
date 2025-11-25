@@ -40,7 +40,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/HaironSB/HaironSB/output/snake.svg" alt="Snake animation" />
+![snake gif](https://github.com/HaironSB/HaironSB/blob/output/github-snake-dark.svg)
 
 ###
 
